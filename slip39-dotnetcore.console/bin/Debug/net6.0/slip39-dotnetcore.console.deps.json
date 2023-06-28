@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "slip39-dotnetcore.console/1.0.0": {
+        "dependencies": {
+          "slip39-dotnetcore": "1.0.0"
+        },
+        "runtime": {
+          "slip39-dotnetcore.console.dll": {}
+        }
+      },
+      "slip39-dotnetcore/1.0.0": {
+        "runtime": {
+          "slip39-dotnetcore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slip39-dotnetcore.console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "slip39-dotnetcore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

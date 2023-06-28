@@ -1,0 +1,12 @@
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/bin/Debug/net6.0/slip39-dotnetcore.deps.json
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/bin/Debug/net6.0/slip39-dotnetcore.dll
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/bin/Debug/net6.0/slip39-dotnetcore.pdb
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.csproj.AssemblyReference.cache
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.AssemblyInfoInputs.cache
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.AssemblyInfo.cs
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.csproj.CoreCompileInputs.cache
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.dll
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/refint/slip39-dotnetcore.dll
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/slip39-dotnetcore.pdb
+/workspaces/slip39-dotnetcore/slip39-dotnetcore/obj/Debug/net6.0/ref/slip39-dotnetcore.dll
